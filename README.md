@@ -81,7 +81,7 @@ The app has 2 types of models.
 
 ## Deploy to Production
 
-Before putting this application on production, I would like the checkbox the following addition:
+Before putting this application on production, I would like to checkbox the following additions:
 
 - [ ] Create a better CLI solution, and provide a more detailed explanation of the options that you can use with the app.
 - [ ] Add some timeouts to not overheat the website server that we are crawling, this might lead to rate limiting the IP that this crawler is running on by that server.
